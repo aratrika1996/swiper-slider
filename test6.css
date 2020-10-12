@@ -47,7 +47,7 @@ iframe {
 
 .swiper-button-prev::after,
 .swiper-button-next::after {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 600;
 }
 
