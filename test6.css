@@ -43,7 +43,6 @@ iframe {
 .swiper-button-prev,
 .swiper-button-next {
     color: white;
-    height: 10px;
 }
 
 .swiper-button-prev::after,
@@ -53,5 +52,5 @@ iframe {
 }
 
 .swiper-pagination>.swiper-pagination-bullet-active {
-    background-color: black;
+    background-color: white;
 }
