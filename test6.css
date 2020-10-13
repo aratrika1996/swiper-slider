@@ -16,7 +16,7 @@ iframe {
 .swiper-container {
     width: 100%;
     height: 250px;
-    /* margin: 20px; */
+     margin: 0;
 }
 
 .swiper-button-prev,
